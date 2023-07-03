@@ -1,15 +1,15 @@
 # vagarant - project
 
-##Revising git using vagrant
+## Revising git using vagrant
 
-###objectives
+### objectives
 
-*how to clone
+* how to clone
 
-*touch test
+* touch test
 
-*git add test
+* git add test
 
-*git commit -m "commit message"
+* git commit -m "commit message"
 
-*git push
+* git push
