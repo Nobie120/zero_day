@@ -1,0 +1,1 @@
+vagrant 0x00
